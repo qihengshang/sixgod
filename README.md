@@ -18,4 +18,4 @@
      
      2.在ChooseAreaFragment中根据状态的不同进行不同的看逻辑处理。如果在MainActivity当中，处理逻辑不变。 
      
-     3.如果在WeatherActivity当中，关闭滑动菜单，显示下拉刷新进度条，请求新城市的天气信息。
+     3.如果在WeatherActivity当中，关闭滑动菜单，显示下拉刷新进度条，请求获取新城市的天气信息。
